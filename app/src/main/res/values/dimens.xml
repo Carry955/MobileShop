@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="navigation_height">50dp</dimen>
+    <dimen name="personal_user_img_view_height">70dp</dimen>
+    <dimen name="personal_user_img_view_width">70dp</dimen>
+    <dimen name="personal_user_head_height">127dp</dimen>
+    <dimen name="personal_user_photo_marginleft">22dp</dimen>
+    <dimen name="title_height">50dp</dimen>
+</resources>

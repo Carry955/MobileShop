@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<shape xmlns:adnroid="http://schemas.android.com/apk/res/android">
+    <corners adnroid:radius="2dp"/>
+    <solid adnroid:color="#f05455"/>
+    <stroke
+        adnroid:width="1px"
+        adnroid:color="#f05455"
+        adnroid:dashWidth="2dp"/>
+</shape>
