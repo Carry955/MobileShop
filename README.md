@@ -9,10 +9,10 @@
 
 -----
 ### 开发环境
-Android Studio 3.5.2  
-Android SDK 26  
-Gradle Version 5.4.2  
-Java Version 1.8  
+* Android Studio 3.5.2  
+* Android SDK 26  
+* Gradle Version 5.4.2  
+* Java Version 1.8  
 
 -----
 ### 依赖
