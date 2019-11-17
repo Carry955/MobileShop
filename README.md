@@ -1,5 +1,7 @@
 # MobileShop（移动电商）
 
+### 图标
+ <img src="https://github.com/Carry955/MobileShop/blob/master/app/src/main/res/mipmap-hdpi/shop.png" width="8%">
 
 -----
 ### 运行截图
