@@ -2,9 +2,9 @@
 ---
 ### 运行截图
 <img src="https://github.com/Carry955/MobileShop/blob/master/ScreenShot/splash_layout.png" width="30%">
-![广告页](https://github.com/Carry955/MobileShop/blob/master/ScreenShot/ad_layout.png)
-![商品分类页](https://github.com/Carry955/MobileShop/blob/master/ScreenShot/goodscategory.png)
-![商品页](https://github.com/Carry955/MobileShop/blob/master/ScreenShot/goodslist.png)
-![个人页_未登录](https://github.com/Carry955/MobileShop/blob/master/ScreenShot/personal_notlogin.png)
-![用户登录](https://github.com/Carry955/MobileShop/blob/master/ScreenShot/personal_login.png)
-![个人页_登录](https://github.com/Carry955/MobileShop/blob/master/ScreenShot/personal_inlogin.png)
+<img src="https://github.com/Carry955/MobileShop/blob/master/ScreenShot/ad_layout.png" width="30%">
+<img src="https://github.com/Carry955/MobileShop/blob/master/ScreenShot/goodscategory.png" width="30%">
+<img src="https://github.com/Carry955/MobileShop/blob/master/ScreenShot/goodslist.png" width="30%">
+<img src="https://github.com/Carry955/MobileShop/blob/master/ScreenShot/personal_notlogin.png" width="30%">
+<img src="https://github.com/Carry955/MobileShop/blob/master/ScreenShot/personal_login.png" width="30%">
+<img src="https://github.com/Carry955/MobileShop/blob/master/ScreenShot/personal_inlogin.png" width="30%">
