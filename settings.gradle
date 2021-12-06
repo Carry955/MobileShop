@@ -1,0 +1,5 @@
+include ':app'
+<<<<<<< HEAD
+=======
+rootProject.name='MobileShop01'
+>>>>>>> 322322b (0.2)
