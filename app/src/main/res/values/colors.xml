@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="title_text">#212121</color>
+
+    <color name="title_textcolor">#ff252525</color>
+    <color name="my_personal_bg">#fff3f4f6</color>
+    <color name="white">#ffffffff</color>
+    <color name="my_personal_login_shadow_color">#ff996b3d</color>
+    <color name="my_personal_login_textcolor">#ff754614</color>
+    <color name="black">#ff000000</color>
+    <color name="red">#ffda434e</color>
+</resources>
